@@ -1,2 +1,2 @@
 # Hey, I'm Aaron.
-I'm a 15-year-old developer who works with C#, Python, and JavaScript, creating games and websites. My hobbies include robotics and snowboarding. Welcome to my GitHub page!
+I'm a 15-year-old who loves programming, robotics, and game development. I code with C#, Python, and JavaScript. I also write a blog that documents the random things I do. Some of my hobbies include gaming and driving remote control vehicles.
