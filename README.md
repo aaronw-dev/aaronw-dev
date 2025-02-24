@@ -20,4 +20,3 @@ class Program
     }
 }
 ```
-Try running the code!
