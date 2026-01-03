@@ -10,7 +10,7 @@ class Program
 {
     static float yearsWorking()
     {
-        return 8f + 4f / 12f;
+        return 8f + 7f / 12f;
     }
     static void Main()
     {
